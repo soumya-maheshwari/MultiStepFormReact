@@ -31,7 +31,11 @@ class UserDetails extends Component {
             onChange={handleChange("Email")}
           />
         </div>
-        <button className="btn-continue btn" onClick={this.continue}>
+        <button
+          className="btn-continue btn"
+          primary={true}
+          onClick={this.continue}
+        >
           CONTINUE
         </button>
       </div>
