@@ -55,6 +55,7 @@ class UserForm extends Component {
         return (
           <PersonalDetails
             nextStep={this.nextStep}
+            backStep={this.backStep}
             handleChange={this.handleChange}
             value={values}
           />
@@ -63,18 +64,13 @@ class UserForm extends Component {
         return (
           <Confirm
             nextStep={this.nextStep}
+            backStep={this.backStep}
             handleChange={this.handleChange}
             value={values}
           />
         );
       case 4:
-        return (
-          <Success
-            nextStep={this.nextStep}
-            handleChange={this.handleChange}
-            value={values}
-          />
-        );
+        return <Success />;
     }
   }
 }
