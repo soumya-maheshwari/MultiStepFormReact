@@ -78,3 +78,7 @@ body {
 .btn-back {
   margin-left: 10px;
 }
+
+.lists {
+  list-style-type: none;
+}

@@ -48,7 +48,7 @@ class UserForm extends Component {
           <UserDetails
             nextStep={this.nextStep}
             handleChange={this.handleChange}
-            value={values}
+            values={values}
           />
         );
       case 2:
@@ -57,7 +57,7 @@ class UserForm extends Component {
             nextStep={this.nextStep}
             backStep={this.backStep}
             handleChange={this.handleChange}
-            value={values}
+            values={values}
           />
         );
       case 3:
@@ -66,7 +66,7 @@ class UserForm extends Component {
             nextStep={this.nextStep}
             backStep={this.backStep}
             handleChange={this.handleChange}
-            value={values}
+            values={values}
           />
         );
       case 4:

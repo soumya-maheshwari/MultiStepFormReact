@@ -1,0 +1,23 @@
+[33mcommit 07a6b499be9efc85c86172743eff62a1c3541b33[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Soumya Maheshwari <soumyamaheshwari011@gmail.com>
+Date:   Fri Jan 20 02:37:48 2023 +0530
+
+    addded confirm page
+
+[33mcommit a3be8cda7acd57b7a6d1e48ddbfc12c9d3197739[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Soumya Maheshwari <soumyamaheshwari011@gmail.com>
+Date:   Fri Jan 20 02:02:32 2023 +0530
+
+    primary set to true in continue
+
+[33mcommit 008e6808d933add8e523192a3552b1ece90094d5[m
+Author: Soumya Maheshwari <soumyamaheshwari011@gmail.com>
+Date:   Fri Jan 20 01:42:20 2023 +0530
+
+    initial commit
+
+[33mcommit d030067d4418fce87d885beef613fd77d95a13f3[m
+Author: Soumya Maheshwari <soumyamaheshwari011@gmail.com>
+Date:   Thu Jan 19 01:24:36 2023 +0530
+
+    Initialize project using Create React App
