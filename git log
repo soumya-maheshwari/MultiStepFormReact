@@ -21,3 +21,6 @@ Author: Soumya Maheshwari <soumyamaheshwari011@gmail.com>
 Date:   Thu Jan 19 01:24:36 2023 +0530
 
     Initialize project using Create React App
+
+
+npm install @mui/material @emotion/react @emotion/styled
